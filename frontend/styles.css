@@ -1,0 +1,66 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0px;
+  background-color: burlywood;
+}
+
+#page-title {
+  margin: 12px;
+  color: white;
+}
+
+#add-title {
+  margin-left: 32px;
+}
+
+#contact-list{
+  border-top: solid 1px black;
+}
+
+#contacts{
+  padding: 32px;
+}
+
+#contact-div {
+  background-color: antiquewhite;
+  height: 100%;
+  padding: 1px;
+}
+
+#inputs {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  background-color: rgb(200, 200, 200);
+  padding: 8px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+input,
+button {
+  position: relative;
+  margin: 4px;
+  border-radius: 4px;
+  border: none;
+  height: 24px;
+}
+
+.del{
+background-color: darkgray;
+margin-left: 16px;
+height: 16px;
+}
+
+button:active {
+  background-color: rgb(173, 173, 173);
+  color: rgb(209, 209, 209);
+}
