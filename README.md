@@ -1,4 +1,4 @@
-# MY FIRST FULL STACK APPLICATION
+## A SIMPLE FULLSTACK APPLICATION
 - This is an exercise
 - SSR
 - Vanilla js
