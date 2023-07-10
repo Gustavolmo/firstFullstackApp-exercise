@@ -1,4 +1,4 @@
 ## A SIMPLE FULLSTACK APPLICATION
-- SSR
+
 - Vanilla js
 - Express
